@@ -55,7 +55,7 @@
    "id": "d946fd35-f018-4394-b493-a66d863e8856",
    "metadata": {},
    "source": [
-    "<img src=\"https://media.discordapp.net/attachments/1343904302351122538/1343904429274959943/Screenshot_2025-02-24_232736.png?ex=67d80488&is=67d6b308&hm=f0b7caa2ee0da5f272cb8dc2c56e982a9cde533c9bbe4e3dc1644b2c021b61a7&=&format=webp&quality=lossless&width=1296&height=78\" alt = \"Pip install\"/>\n"
+    "<img src=\"pip1.png\"/>\n"
    ]
   },
   {
@@ -71,7 +71,7 @@
    "id": "417b4375-0e57-4b7a-92a1-aa3beb439a89",
    "metadata": {},
    "source": [
-    "<img src=\"https://media.discordapp.net/attachments/1343904302351122538/1343904429711032350/Screenshot_2025-02-24_233146.png?ex=67d80488&is=67d6b308&hm=fc3048635243d29049257cf8572c89c2b17eff55070e29a459ef6c9b4404c32e&=&format=webp&quality=lossless&width=1304&height=69\"/>"
+    "<img src=\"pip2.png\"/>"
    ]
   },
   {
@@ -89,7 +89,7 @@
    "id": "65a361c6-89ab-422c-b5af-5cfdeeaf28e9",
    "metadata": {},
    "source": [
-    "<img src=\"https://media.discordapp.net/attachments/1343904302351122538/1343905950263808081/Screenshot_2025-02-25_1651341.png?ex=67d805f3&is=67d6b473&hm=3f667cb552e7653217c449613d3331383af596a7374b0888c2e5a7442ebb9734&=&format=webp&quality=lossless&width=2010&height=266\"/>"
+    "<img src=\"pip3.png\"/>"
    ]
   },
   {
@@ -107,8 +107,8 @@
    "id": "c650991f-437f-47ab-9b56-e5799fdb928f",
    "metadata": {},
    "source": [
-    "<img src=\"https://media.discordapp.net/attachments/1343904302351122538/1343904429983928401/Screenshot_2025-02-24_233528.png?ex=67d80488&is=67d6b308&hm=65c3f8e9fdfd7e47e30032cef27f772c987dbe1a34d4b5fe82c1ae8eead3aa3d&=&format=webp&quality=lossless&width=1305&height=66\"/>\n",
-    "<img src=\"https://media.discordapp.net/attachments/1343904302351122538/1343904430205960274/Screenshot_2025-02-24_233710.png?ex=67d80488&is=67d6b308&hm=630738b47b0ed203e1d40d305aaa1ca01a71b84f3a98ee05fe362d9426675e69&=&format=webp&quality=lossless&width=1296&height=90\"/>"
+    "<img src=\"pip4.png\"/>\n",
+    "<img src=\"pip5.png\"/>"
    ]
   },
   {
@@ -124,7 +124,7 @@
    "id": "7abf734a-4ad7-46cb-8464-9693be066a27",
    "metadata": {},
    "source": [
-    "<img src=\"https://media.discordapp.net/attachments/1343904302351122538/1343904430495371334/Screenshot_2025-02-24_233917.png?ex=67d80488&is=67d6b308&hm=a8fcd745ad74b7148ac366fa8a0119287ae8465d21d56c7282b83f7f50b2cebc&=&format=webp&quality=lossless&width=1283&height=197\"/>"
+    "<img src=\"pip6.jpeg\"/>"
    ]
   },
   {
@@ -149,7 +149,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 21,
    "id": "dfe63779-0398-4db1-9890-ad59384a1395",
    "metadata": {},
    "outputs": [],
@@ -168,7 +168,7 @@
    "id": "57293a6d-2df9-466b-b7ee-3a6448cfa56c",
    "metadata": {},
    "source": [
-    "<img src=\"https://media.discordapp.net/attachments/1343904302351122538/1343951282926387330/image.png?ex=67d8302b&is=67d6deab&hm=f0f52b24ecc7ea15aff96d6d1f44546ad9ae9424f4dc3203f51da7fb9b5febd5&=&format=webp&quality=lossless&width=2489&height=639\"/>"
+    "<img src=\"pip10.png\"/>"
    ]
   },
   {
@@ -176,7 +176,7 @@
    "id": "4c553544-1df5-48fb-bc43-d651696954d4",
    "metadata": {},
    "source": [
-    "<img src=\"https://media.discordapp.net/attachments/1343904302351122538/1343925339478556702/msedge_ylGm2QFROW.gif?ex=67d81801&is=67d6c681&hm=78c97014ffa16ddc8d07379445c0e89237b8eedf75cb9b000caaa880b1f38d84&=&width=1668&height=987\"/>"
+    "<img src=\"pip9.gif\"/>"
    ]
   },
   {
@@ -195,14 +195,14 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 22,
    "id": "c258527c-11b2-4c1d-952a-270259cc7487",
    "metadata": {},
    "outputs": [
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "049d96da8dd442b19a0301d924f57682",
+       "model_id": "7f88039c7501400486680a4666c3da33",
        "version_major": 2,
        "version_minor": 0
       },
@@ -253,7 +253,7 @@
    "id": "0d57c7a6-bb76-4443-b9ab-2db729814396",
    "metadata": {},
    "source": [
-    "<img src=\"https://media.discordapp.net/attachments/1343904302351122538/1343904428838621225/NYC_texi.gif?ex=67d80488&is=67d6b308&hm=62b93d73c053baa80ec9fd1286886c068386bc99391f65b1d9415732dadd193d&=&width=1469&height=1091\"/>\n"
+    "<img src=\"pip7.gif\"/>\n"
    ]
   },
   {
@@ -271,14 +271,14 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 23,
    "id": "2316337a-a3ce-429b-9197-75a7805c2225",
    "metadata": {},
    "outputs": [
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "77340ca4cf514483a546636e89dfc800",
+       "model_id": "9f6c0504a39942caba79d17fa17c3de8",
        "version_major": 2,
        "version_minor": 0
       },
@@ -328,7 +328,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 24,
    "id": "62921c23-50db-48fa-a77d-b52f8cf63a6f",
    "metadata": {},
    "outputs": [],
@@ -360,14 +360,14 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 25,
    "id": "4e987efc-185c-45f6-8843-88ff389a642a",
    "metadata": {},
    "outputs": [
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "8afd92e4c91d4740a64639c1f9e3b528",
+       "model_id": "59d905ed7b754a9c8cfe590dc4149cdd",
        "version_major": 2,
        "version_minor": 0
       },
@@ -405,14 +405,14 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 26,
    "id": "dd1d92fd-3516-4268-996a-7940fd1b6980",
    "metadata": {},
    "outputs": [
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "b14b7c7b332641809a444267c65957bb",
+       "model_id": "b7e612e4a5c34fd6ac930f55015af2d8",
        "version_major": 2,
        "version_minor": 0
       },
@@ -456,14 +456,14 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
+   "execution_count": 27,
    "id": "b6d2dead-aaa0-4b7e-9628-ca8f405c17fd",
    "metadata": {},
    "outputs": [
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "428b46f43fba44ecb90ca761cb4d82c4",
+       "model_id": "1e755842aae448e9a2cbd813cc717de2",
        "version_major": 2,
        "version_minor": 0
       },
@@ -513,7 +513,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 28,
    "id": "83a0a25a-1289-462a-9991-a51d26583d8e",
    "metadata": {},
    "outputs": [
@@ -528,7 +528,7 @@
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "7b8e0753b2304d288beed40acb317239",
+       "model_id": "64bdedec320d4127860204460e27d1e0",
        "version_major": 2,
        "version_minor": 0
       },
@@ -584,7 +584,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
+   "execution_count": 29,
    "id": "a0373b2c-e35e-458e-a2a6-ebc84816e462",
    "metadata": {},
    "outputs": [
@@ -598,7 +598,7 @@
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "12a516edb07f455d9ad0fc41888e5fe7",
+       "model_id": "140edd060d714052bc59036b4a1826cc",
        "version_major": 2,
        "version_minor": 0
       },
@@ -642,14 +642,14 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 30,
    "id": "b3ee2cdf-48b1-4c96-9ddb-c180e4d73b8d",
    "metadata": {},
    "outputs": [
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "13eede52e0354a51a987f2eb2f24aba9",
+       "model_id": "d06df975cef245829e71d16bc971e3b6",
        "version_major": 2,
        "version_minor": 0
       },
@@ -698,14 +698,14 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 11,
+   "execution_count": 31,
    "id": "da18827a-7a41-49ad-a63e-f7271f461369",
    "metadata": {},
    "outputs": [
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "196d5da5e310400c96512bd43e0cad8b",
+       "model_id": "2bee8a9c13b641a78885409b6d3b1884",
        "version_major": 2,
        "version_minor": 0
       },
@@ -785,10 +785,32 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 32,
    "id": "d8849c6c-b2f6-4aff-93ed-cb8be11afb1e",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "shape of steam data (6, 200, 1250)\n"
+     ]
+    },
+    {
+     "data": {
+      "application/vnd.jupyter.widget-view+json": {
+       "model_id": "85987c52ebc344668f97b1e924adb719",
+       "version_major": 2,
+       "version_minor": 0
+      },
+      "text/plain": [
+       "Container(children=[HBox(children=(Play(value=0, interval=200, max=199), IntSlider(value=0, max=199)))], figur…"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
    "source": [
     "import ipyvolume.datasets\n",
     "stream = ipyvolume.datasets.animated_stream.fetch()\n",
@@ -844,10 +866,67 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 33,
    "id": "926d81bc-fb19-4348-ad79-5d480fab1f62",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "application/vnd.jupyter.widget-view+json": {
+       "model_id": "56fb73f5528b42fea3aec52866841a8c",
+       "version_major": 2,
+       "version_minor": 0
+      },
+      "text/plain": [
+       "Dropdown(description='Select:', options=('Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', '…"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "application/vnd.jupyter.widget-view+json": {
+       "model_id": "d4a6ce18c83c460e803df887ae1bbb3b",
+       "version_major": 2,
+       "version_minor": 0
+      },
+      "text/plain": [
+       "IntSlider(value=0, description='Time Frame', max=5999)"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "application/vnd.jupyter.widget-view+json": {
+       "model_id": "d2238048b97e4e1d94967c5b4aebe58a",
+       "version_major": 2,
+       "version_minor": 0
+      },
+      "text/plain": [
+       "HTML(value='\\n    <b>Selected Planet:</b> Mercury <br>\\n    <b>Coordinates:</b> (460.52, 0.00, 0.00) <br>\\n   …"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    },
+    {
+     "data": {
+      "application/vnd.jupyter.widget-view+json": {
+       "model_id": "2735cd94b2cc4b5ea199d88ae1df5613",
+       "version_major": 2,
+       "version_minor": 0
+      },
+      "text/plain": [
+       "Container(children=[HBox(children=(Play(value=0, max=5999), IntSlider(value=0, max=5999)))], figure=Figure(ani…"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
    "source": [
     "# Planet names\n",
     "planets = [\"Mercury\", \"Venus\", \"Earth\", \"Mars\", \"Jupiter\", \"Saturn\", \"Uranus\", \"Neptune\"]\n",
